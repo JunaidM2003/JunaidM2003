@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Script projects.<br>👯  I’m currently learning more about react native and make apps<br>
+🔭 I’m currently working on Java Script projects.<br>👯  I’m currently learning more about react native <br>
 
 
 ## 🌐 Socials:
